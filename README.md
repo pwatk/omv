@@ -1,2 +1,2 @@
 # omv
-Archived custom configuration files for OpenMediaVault
+Configuration files for OpenMediaVault
