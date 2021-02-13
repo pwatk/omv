@@ -1,2 +1,2 @@
 # omv
-Custom configuration files for OpenMediaVault
+Archived custom configuration files for Synology DSM
